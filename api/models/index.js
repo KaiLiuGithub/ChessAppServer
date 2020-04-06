@@ -1,0 +1,2 @@
+require('./chessModel');
+require('./userModel');
